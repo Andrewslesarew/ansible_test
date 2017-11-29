@@ -1,2 +1,2 @@
 [tomcat-servers]
-localhost ansible_connection=local
+92.53.66.126
